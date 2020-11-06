@@ -1,0 +1,48 @@
+body{
+	background-color: #00FFD0;
+}
+
+.header {
+    font-family: Arial;
+    font-style: oblique;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: yellow;
+}
+
+p {
+	font-family: verdana;
+	font-size: 14px;
+}
+
+h2{
+	font-family: verdana;
+	font-size: 15px;
+	font-style: oblique;
+}
+
+img{
+	width: 250px;
+	height: 200px;
+} 
+
+table, th, td{
+    border-style: solid;
+    border-width: 1px;
+    empty-cells: show;
+    table-layout: auto;
+}
